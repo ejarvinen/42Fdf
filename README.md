@@ -1,5 +1,5 @@
 # 42Fdf: Wireframe Model for 3D Landscapes
-
+![Example Wireframe Model](https://github.com/ejarvinen/42Fdf/blob/main/header.png)
 ## Overview
 **FDF (Fil De Fer)** is a project designed to represent 3D landscapes as wireframe models, where surfaces are outlined with lines. This project leverages the [MLX42](https://github.com/codam-coding-college/MLX42) graphical library to render landscapes from a specific viewpoint and interact with the 3D model.
 
@@ -86,3 +86,4 @@ This will open a window displaying the wireframe model of the specified landscap
 0 0 0 0 0 0 0 0 0 0 1
 ```
 ### Output
+![Example model](https://github.com/ejarvinen/42Fdf/blob/main/example1.png)
